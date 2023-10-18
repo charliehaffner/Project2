@@ -17,6 +17,7 @@
   position: relative;
   left: 50%;
   float: left;
+  text-align: center;
 }
 
 #main-menu ul li {
