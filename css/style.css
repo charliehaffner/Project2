@@ -23,6 +23,7 @@
   display: block;
   position: relative;
   right: 50%;
+  float: left;
 }
 
 #main-menu ul li a {
