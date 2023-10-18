@@ -1,6 +1,7 @@
 #main-menu {
   background-color: #FF6961;
   overflow: hidden;
+  border: 5px;
 }
 
 #menu-container {
