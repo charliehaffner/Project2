@@ -1,0 +1,27 @@
+#main-menu {
+  background-color: #FF6961;
+  overflow: hidden;
+}
+
+#menu-container {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+#main-menu ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#main-menu ul li [
+  display: block;
+  position: relative;
+  left: 50%;
+  float: left;
+  background-color: #FF6961;
+]
