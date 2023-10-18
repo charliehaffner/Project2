@@ -23,5 +23,16 @@
   position: relative;
   left: 50%;
   float: left;
-  background-color: #FF6961;
 ]
+
+#main-menu ul li a {
+  display: block;
+  position: relative;
+  padding: 15px 10px;
+  text-decoration: none;
+  background-color; #FF6961;
+}
+
+#main-menu ul li a:hover {
+  background-color: black;
+}
