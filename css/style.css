@@ -8,6 +8,7 @@
 #menu-container {
   position: relative;
   width: 100%;
+  float: left;
 }
 
 #main-menu ul {
@@ -16,6 +17,7 @@
   margin: 0;
   position: relative;
   left: 50%;
+  float:left;
   text-align: center;
 }
 
