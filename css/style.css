@@ -2,6 +2,7 @@
   background-color: #FF6961;
   overflow: hidden;
   border: 5px;
+  border-radius: 5px;
 }
 
 #menu-container {
@@ -36,7 +37,7 @@
 }
 
 #main-menu ul li a:hover {
-  background-color: black;
+  background-color: #c6fdf9;
 }
 
 #main-menu ul li a:link {
@@ -45,12 +46,12 @@
 }
 
 body {
-  background-color: #ffcfcf;
+  background-color: red;
   margin-left: 80px auto;
 }
 
 section {
-  background-color: #c6fdf9;
+  background-color: #ffcfcf;
   max-width: 800px auto;
   margin: 20px auto;
   padding: 20px;
