@@ -63,11 +63,9 @@ h1, h3 {
   text-decoration: underline;
 }
 
-.space-header {
-  background-image: url("jwst.jpeg");
-  color: white;
+.skyline {
+  left: 50%; 
 }
-
 
 
 
