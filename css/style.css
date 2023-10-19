@@ -64,7 +64,9 @@ h1, h3 {
 }
 
 .skyline {
-  left: 50%; 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 
