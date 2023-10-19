@@ -87,6 +87,9 @@ img {
 iframe {
   width: 560;
   height: 315;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
