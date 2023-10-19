@@ -32,7 +32,7 @@
   display: block;
   padding: 15px 10px;
   text-decoration: none;
-  background-color; #FF6961;
+  background-color; red;
   color: white;
 }
 
@@ -41,12 +41,12 @@
 }
 
 #main-menu ul li a:link {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 body {
-  background-color: red;
+  background-color: maroon;
   margin-left: 80px auto;
 }
 
