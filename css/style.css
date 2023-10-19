@@ -49,8 +49,9 @@ body {
 }
 
 section {
-  color: #c6fdf9;
-  width: 800px
+  background-color: #c6fdf9;
+  width: 800px auto;
+  
 }
 
 
