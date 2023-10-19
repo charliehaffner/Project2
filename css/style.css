@@ -51,6 +51,8 @@ body {
 section {
   background-color: #c6fdf9;
   max-width: 800px auto;
+  margin: 0px;
+  padding: 20px;
   
 }
 
