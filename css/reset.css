@@ -5,8 +5,12 @@ h1, h2, h3, p, ul, li {
 }
 
 body {
-  color: maroon;
-  font-family: 
+  background-color: maroon;
+  font-family: "Times New Roman", Times, serif;
+}
+
+section {
+  background-color: #ffcfcf;
 }
 
 ul, li {
