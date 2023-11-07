@@ -64,11 +64,11 @@ section {
   padding: 20px;
 }
 
-h1 {
+h1, h3, h4 {
   text-align: center;
 }
 
-h2 {
+h2, h3 {
   text-decoration: underline;
 }
 
