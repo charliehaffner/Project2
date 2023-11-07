@@ -47,7 +47,7 @@ h1, h2, h3, p, ul, li {
 
 #main-menu ul li a:link {
   color: black;
-  text-decoration: italic;
+  text-decoration: none;
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -64,9 +64,8 @@ section {
   padding: 20px;
 }
 
-h1, h3 {
+h1 {
   text-align: center;
-  text-decoration: underline;
 }
 
 h2 {
