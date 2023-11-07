@@ -7,8 +7,6 @@ h1, h2, h3, p, ul, li {
 #main-menu {
   background-color: #FF6961;
   overflow: hidden;
-  border: 5px;
-  border-radius: 5px;
 }
 
 #menu-container {
