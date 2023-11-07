@@ -64,6 +64,10 @@ h1, h3 {
   text-decoration: underline;
 }
 
+h2 {
+  text-decoration: underline;
+}
+
 .skyline {
   margin-left: auto;
   margin-right: auto;
