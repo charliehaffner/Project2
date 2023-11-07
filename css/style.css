@@ -41,7 +41,8 @@ h1, h2, h3, p, ul, li {
 }
 
 #main-menu ul li a:hover {
-  background-color: gray;
+  background-color: white;
+  color: black;
 }
 
 #main-menu ul li a:link {
@@ -51,7 +52,7 @@ h1, h2, h3, p, ul, li {
 }
 
 body {
-  background-color: maroon;
+  background-color: #d3d3d3;
   font-family: "Times New Roman", Times, serif;
 }
 
